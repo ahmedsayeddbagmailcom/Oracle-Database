@@ -84,8 +84,8 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 - **Your Name**
-- LinkedIn: [Your Profile]
-- Email: your.email@example.com
+- LinkedIn: linkedin.com/in/ahmedsayed
+- Email: ahmedsayed.dba@gmail.com
 
 ---
 
